@@ -1,2 +1,14 @@
 # statsxingkong-pages
-HTML page archive and documentation
+
+自动页面托管记录
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 内容结构
+
+- 根目录：HTML 页面文件
+- README：用途与维护说明
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
